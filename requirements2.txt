@@ -1,0 +1,10 @@
+flask
+numpy
+p_utils
+opencv-python
+p_utils
+p_utils
+matplotlib
+torch
+torchvision
+scikit-learn
